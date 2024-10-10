@@ -9,7 +9,7 @@
     "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/index.js",
     "seeder": "node backend/seeder/seeder.js"
   },
-  "author": "Saquelain Mokhtar",
+  "author": "Saquib Rahman",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",

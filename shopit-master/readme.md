@@ -159,5 +159,5 @@ Use the following command to put some dummy products in that database. Run it in
 
 ## Feedback
 
-If you have any feedback, please reach out to us at saquelain1502@gmail.com
+If you have any feedback, please reach out to us at saquibrahman004@gmail.com
 
